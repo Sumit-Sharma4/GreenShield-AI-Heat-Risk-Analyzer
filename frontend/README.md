@@ -29,6 +29,24 @@ GreenShield AI is an AI-powered climate-tech platform that analyzes urban heat r
 * 🤖 Gemini AI Assistant
 * 📄 PDF Report Generation
 
+---
+
+## 📸 Screenshots
+
+### City Analysis Dashboard
+![City Analysis](screenshots/city-analysis.png)
+
+### Interactive Heat Map
+![Heat Map](screenshots/heat-map.png)
+
+### Hotspot Detection
+![Hotspots](screenshots/hotspots.png)
+
+### AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
+
+### Recommendations
+![Recommendations](screenshots/recommendation.png)
 
 ---
 
