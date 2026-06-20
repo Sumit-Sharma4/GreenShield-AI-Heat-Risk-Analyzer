@@ -1,0 +1,40 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+.env.*
+
+# Node Modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build Files
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Testing Cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# React/Vite
+.vite/
+
+# Jupyter
+.ipynb_checkpoints/
