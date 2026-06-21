@@ -8,12 +8,6 @@ The platform helps identify Urban Heat Island (UHI) effects, detect heat hotspot
 
 ---
 
-# 🚀 Features
-
-# 🌳 GreenShield AI Heat Risk Analyzer
-
-GreenShield AI is an AI-powered climate-tech platform that analyzes urban heat risk using satellite imagery and land-cover data. It helps identify heat hotspots, calculate sustainability scores, estimate cooling potential, and provide climate action recommendations for cities.
-
 ## 🚀 Features
 
 * 🔥 Heat Risk Analysis
